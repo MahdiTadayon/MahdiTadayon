@@ -49,6 +49,7 @@ Predicted house sale prices using Polynomial Regression, Gaussian RBF, Ridge Reg
 
 **Languages:** Python, SQL  
 **ML/DL:** Scikit-learn, PyTorch  
-**Data:** Pandas, NumPy, Matplotlib, Seaborn  
+**NLP:** NLTK, Hugging Face Transformers
+**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn  
 **Databases:** SQL Server  
 **Tools:** Git, Docker, Linux
