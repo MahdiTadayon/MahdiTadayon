@@ -39,7 +39,7 @@ I'm passionate about solving real-world problems using machine learning and deep
 
 ## 🚀 Featured Projects
 
-### [Customer Behavioral Segmentation & Profiling](https://github.com/MahdiTadayon/customer-segmentation)
+### [Customer Behavioral Segmentation & Profiling](https://github.com/MahdiTadayon/Customer-Behavioral-Segmentation-and-Profiling)
 Segmented charity members based on donation behavior using RFM analysis and clustering. Built a Decision Tree classifier to predict VIP customers using demographic features.
 
 ### [Telco Customer Churn Prediction](https://github.com/MahdiTadayon/Telco-Customer-Churn-Prediction)
@@ -56,13 +56,4 @@ Predicted house sale prices using Polynomial Regression, Gaussian RBF, Ridge Reg
 **ML/DL:** Scikit-learn, PyTorch  
 **Data:** Pandas, NumPy, Matplotlib, Seaborn  
 **Databases:** SQL Server  
-**Tools:** Git, Docker, Linux, Jupyter, VS Code
-
----
-
-## 📊 GitHub Stats
-
-![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdiTadayon&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiTadayon&layout=compact&theme=radical)
-
+**Tools:** Git, Docker, Linux
