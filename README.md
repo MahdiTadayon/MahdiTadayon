@@ -6,7 +6,6 @@
 📧 mahdi.tadayon789@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/mahdi-tadayon) | [GitHub](https://github.com/MahdiTadayon)
 
----
 
 ## 🌱 About Me
 
@@ -14,7 +13,6 @@ I'm an MSc student in Artificial Intelligence at Semnan University with a strong
 
 I'm passionate about solving real-world problems using machine learning and deep learning, with a special interest in language understanding and generation.
 
----
 
 ## 🎓 Education
 
@@ -23,7 +21,6 @@ I'm passionate about solving real-world problems using machine learning and deep
 | **MSc** (In Progress) | Artificial Intelligence | Semnan University | 18.80/20 | 2025–Present |
 | **BSc** | Computer Engineering - Software | Islamic Azad University, South Tehran Branch | 16.04/20 | 2019–2024 |
 
----
 
 ## 💼 Experience
 
@@ -35,7 +32,6 @@ I'm passionate about solving real-world problems using machine learning and deep
 - Managed data engineering tasks with SQL databases and extracted data via Web Scraping & APIs
 - Version control with Git, working in Linux and Docker environments
 
----
 
 ## 🚀 Featured Projects
 
@@ -48,7 +44,6 @@ Built a churn prediction model for a telecom company. Applied oversampling techn
 ### [House Price Prediction using Non-Linear Models](https://github.com/MahdiTadayon/ames-housing-price-prediction)
 Predicted house sale prices using Polynomial Regression, Gaussian RBF, Ridge Regression, and Neural Networks. Applied advanced feature engineering and selection techniques.
 
----
 
 ## 🛠️ Tech Stack
 
