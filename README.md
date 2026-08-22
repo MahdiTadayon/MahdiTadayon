@@ -20,8 +20,8 @@ I'm passionate about solving real-world problems using machine learning and deep
 
 | Degree | Field | University | GPA | Year |
 |--------|-------|------------|-----|------|
-| **MSc** (In Progress) | Artificial Intelligence | Semnan University | 18.08/20 | 2024–Present |
-| **BSc** | Computer Engineering - Software | Islamic Azad University, South Tehran Branch | 16.04/20 | 2019–2023 |
+| **MSc** (In Progress) | Artificial Intelligence | Semnan University | 18.80/20 | 2025–Present |
+| **BSc** | Computer Engineering - Software | Islamic Azad University, South Tehran Branch | 16.04/20 | 2019–2024 |
 
 ---
 
